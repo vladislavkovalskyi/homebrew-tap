@@ -1,6 +1,6 @@
 cask "saytype" do
-  version "0.3.0"
-  sha256 "d22beb128624a04314030749ebc84fff5e9e22ad287fdb101df0cef78d65e943"
+  version "0.4.0"
+  sha256 "6bc83c2c5c4f4036bc3e9db9ba8aae1cb9106ead502c6f5a05f878ab414b8332"
 
   url "https://github.com/vladislavkovalskyi/saytype/releases/download/v#{version}/saytype-#{version}.dmg"
   name "saytype"
